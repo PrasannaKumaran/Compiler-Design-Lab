@@ -1,0 +1,10 @@
+#include<stdio.h>
+main()
+{
+long int a=10,b=20;
+if(a>b)
+printf(“a is greater”);
+else
+testing()
+printf(“b is greater”);
+}

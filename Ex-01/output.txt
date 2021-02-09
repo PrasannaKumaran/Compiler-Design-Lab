@@ -1,0 +1,34 @@
+
+#include<stdio.h>
+ - preprocessor directive
+( - Special character
+main()
+ - Function call
+{ - Special character
+= - Assignment operator
+a - Identifier
+, - Special character
+10 - Integer constant
+= - Assignment operator
+b - Identifier
+; - Special character
+20 - Integer constant
+long int - keyword
+( - Special character
+if - Keyword
+> - Relational operator
+a - keyword
+) - Special character
+b - keyword
+( - Special character
+printf(“a is greater”);
+ - Function call
+else
+ - keyword
+( - Special character
+testing - Custom function call
+) - Special character
+( - Special character
+printf(“b is greater”);
+ - Function call
+} - Special character
