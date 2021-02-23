@@ -1,0 +1,18 @@
+#include<stdio.h>
+main()
+{
+float a=10,b=20;
+double c=20.3.1;
+char c = 'a';
+char arr[] = "abcd";
+a += 5;
+b >> 2;
+while(a >= b)
+{
+if(a = b)
+printf(“They are equal”);
+else
+continue
+}
+testing(test);
+}
