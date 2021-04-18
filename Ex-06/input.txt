@@ -1,0 +1,18 @@
+char s[50] = "xyz";
+char c = 'a';
+b=2;
+a=4*3;
+s = "abc";
+c = 'x';
+if(a>b)
+a+=2;
+else if(b>c)
+{
+c+*+;
+}
+else
+c+=2;
+while(i<10)
+{
+i++;
+}
